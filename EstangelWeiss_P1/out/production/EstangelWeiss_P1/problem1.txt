@@ -1,0 +1,1 @@
+Java provides several ways to write to file. We can use FileWriter, BufferedWriter, java 7 Files and FileOutputStream to write a file in Java.

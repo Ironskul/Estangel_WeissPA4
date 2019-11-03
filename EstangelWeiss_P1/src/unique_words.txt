@@ -1,0 +1,1 @@
+Java a in use several BufferedWriter, Java. We can ways java file provides and 7 FileOutputStream to file. Files write FileWriter, 
